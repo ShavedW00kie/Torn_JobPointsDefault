@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         Torn Job Points Default Setter
 // @namespace    https://www.torn.com/
-// @version      1.0.0
+// @version      1.2.0
 // @description  Sets a custom default Job Point spend amount for all job specials in Torn.
 // @author       ShavedW00kie
+// @homepageURL  https://github.com/ShavedW00kie
+// @downloadURL  
+// @updateURL    
 // @match        https://www.torn.com/jobs.php*
 // @grant        GM_getValue
 // @grant        GM_setValue
