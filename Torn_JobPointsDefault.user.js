@@ -5,8 +5,8 @@
 // @description  Sets a custom default Job Point spend amount for all job specials in Torn.
 // @author       ShavedW00kie
 // @homepageURL  https://github.com/ShavedW00kie
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://github.com/ShavedW00kie/Torn_JobPointsDefault/raw/refs/heads/main/Torn_JobPointsDefault.user.js
+// @updateURL    https://github.com/ShavedW00kie/Torn_JobPointsDefault/raw/refs/heads/main/Torn_JobPointsDefault.user.js
 // @match        https://www.torn.com/jobs.php*
 // @grant        GM_getValue
 // @grant        GM_setValue
