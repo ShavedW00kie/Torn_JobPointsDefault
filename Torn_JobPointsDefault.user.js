@@ -6,8 +6,6 @@
 // @author       ShavedW00kie (Torn: ThaWookie [2954173] )
 // @license      BSD-3-Clause
 // @homepageURL  https://github.com/ShavedW00kie
-// @downloadURL  https://github.com/ShavedW00kie/Torn_JobPointsDefault/raw/refs/heads/main/Torn_JobPointsDefault.user.js
-// @updateURL    https://github.com/ShavedW00kie/Torn_JobPointsDefault/raw/refs/heads/main/Torn_JobPointsDefault.user.js
 // @match        https://www.torn.com/jobs.php*
 // @grant        GM_getValue
 // @grant        GM_setValue
